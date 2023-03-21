@@ -1,5 +1,5 @@
 # Introduction
-This is a Land Registry project that is build on Hyperledger Fabric - Private Blockchain network.
+This is a Land Registry project that is build on Hyperledger Fabric - Private Blockchain network using React Js and Node JS.
 
 # Description
 
