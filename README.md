@@ -21,12 +21,15 @@ It is a Full Stack Project built using React JS, Node JS, MongoDB and Hyperledge
 Fabric network need to made up for running this project. 
 
 Front end can be run using below commands :
-$ cd landRegistryFrontend
-$ npm install
-$ npm start
+```
+cd landRegistryFrontend
+npm install
+npm start
+```
 
 Back end can be run using below commands :
-$ cd landRegistryBackend
-$ npm install
-$ node index.js
-
+```
+cd landRegistryBackend
+npm install
+node index.js
+```
