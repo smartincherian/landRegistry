@@ -1,0 +1,12 @@
+{
+  isLoading && (
+    <Stack className="mx-auto mt-3">
+      <Spinner
+        animation="border"
+        role="status"
+        variant="primary"
+        className="mx-auto"
+      />
+    </Stack>
+  );
+}
